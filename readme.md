@@ -4,8 +4,8 @@
 
 ! Необходимо наличие: Ubuntu 22.04, pdflatex, convert (imagemagick)
 
-1. Установите [https://docs.ankiweb.net/platform/linux/installing.html](Anki) (на момент написания у меня стоит 23.10.1 на qt6)
-2. Установите [https://ankiweb.net/shared/info/937148547](аддон для изменения процесса сборки) (копируем цифры, Anki -> Tools -> Add-ons -> Get Add-ons -> вставляем)
+1. Установите [Anki](https://docs.ankiweb.net/platform/linux/installing.html) (на момент написания у меня стоит 23.10.1 на qt6)
+2. Установите [аддон для изменения процесса сборки](https://ankiweb.net/shared/info/937148547) (копируем цифры, Anki -> Tools -> Add-ons -> Get Add-ons -> вставляем)
 3. Выбираем этот аддон и открываем его файлы (View Files)
 4. Копируем куда-нибудь старую версию \_\_init\_\_.py, создаем новую с кодом, представленным ниже
 ```py
