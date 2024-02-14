@@ -4,6 +4,7 @@
 
 ! Необходимо наличие: Ubuntu 22.04, pdflatex, convert (imagemagick)
 
+0. Для просмотра карточек с картинками необходим аддон Image Occlusion Enhanced (google it!)
 1. Установите [Anki](https://docs.ankiweb.net/platform/linux/installing.html) (на момент написания у меня стоит 23.10.1 на qt6)
 2. Установите [аддон для изменения процесса сборки](https://ankiweb.net/shared/info/937148547) (копируем цифры, Anki -> Tools -> Add-ons -> Get Add-ons -> вставляем)
 3. Выбираем этот аддон и открываем его файлы (View Files)
